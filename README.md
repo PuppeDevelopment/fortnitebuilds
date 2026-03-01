@@ -42,7 +42,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 14.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		N/A|
 | 14.10-CL-N/A	                | 10-10-20         	 | UE4.26            	    |		N/A|
 | 14.20-CL-N/A	                | 23-10-20         	 | UE4.26            	    |		N/A|
-| 14.30-CL-N/A	                | 13-10-20         	 | UE4.26            	    |		https://sleepservers.com/files/14.30.rar|
+| 14.30-CL-N/A	                | 13-10-20         	 | UE4.26            	    |		N/A|
 | 14.40-CL-14550713	          | 21-10-20         	 | UE4.26            	    |		N/A|
 | 14.50-CL-N/A	                | 03-11-20         	 | UE4.26            	    |		N/A|
 | 14.60-CL-14786821           | 18-11-20        	  | UE4.26            	    |		https://sleepservers.com/files/14.60.rar|
